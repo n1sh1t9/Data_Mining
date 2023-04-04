@@ -4,6 +4,7 @@
 - The dataset consists of pixel values that range from 0 to 255 with 0 being white and 255 being black.
 - We have scaled these pixel values to get them in the range of 0 to 1 for computational efficiency.
 - Logistic Regression, Support Vector Machine, and Neural Networks are the three models that we have implemented in order to make accurate predictions of the different types of clothes.
+
 | Model | Regularization | Accuracy |
 |-------|----------------|----------|
 | LR    | Ridge          | 84.18%   |
